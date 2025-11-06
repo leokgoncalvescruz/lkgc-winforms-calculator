@@ -95,7 +95,23 @@ namespace Exemplo.Classes
 
         public double xelevy()
         {
-           return Math.Pow(this.x, this.y);
+            double resultado = 1;
+
+            if (this.y < 0)
+            {
+                this.x = 1 / this.x;
+                y = -y;
+            }
+
+
+            for (int i = 0; i < this.y; i++)
+            {
+                resultado *= this.x;
+
+                
+            }
+
+            return resultado;
         }
 
     }
