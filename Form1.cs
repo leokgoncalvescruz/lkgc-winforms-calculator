@@ -143,5 +143,35 @@ namespace Exemplo
             setInputX();
             printResultBin(op.getX(), " em binário", op.binario(op.getX()));
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelOutput_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelResult_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            inputTextX.Text = "";
+            inputTextY.Text = "";
+
+            labelOutput.Text = "0";
+            labelResult.Text = "0";
+            
+        }
     }
 }
