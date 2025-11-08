@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|c:\\users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|c:\\users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|c:\\users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|c:\\users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA42B4A-8D75-4C89-96E2-74EE20E347F6}|Exemplo.csproj|solutionrelative:classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-07T23:52:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:33:56.449Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:52:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Classes\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Classes\\Operacoes.cs",
+              "ToolTip": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Classes\\Operacoes.cs",
+              "RelativeToolTip": "Classes\\Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:44:26.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\senai.dsvsis\\workspace\\lkgc-winforms-calculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAUwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:56:17.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
