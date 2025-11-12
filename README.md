@@ -34,3 +34,4 @@ X elevado a potência de Y:
 
 
 Baixe a versão do programa aqui
+https://github.com/leokgoncalvescruz/lkgc-winforms-calculator/releases/tag/v1.0
